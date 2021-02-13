@@ -16,8 +16,8 @@ function App() {
         <Header/>
         <Banner/>
         <Feature/>
-        {/* <Contents/>
-        <Galeria/>
+        <Contents/>
+        {/* <Galeria/>
         <Patners/>
         <Comentario/>
         <BannerFooter/>

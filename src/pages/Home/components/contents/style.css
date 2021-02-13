@@ -1,0 +1,46 @@
+.contents {
+  background-color: #181818;
+  color: #fff; }
+  .contents .container {
+    max-width: 430px;
+    margin: auto;
+    text-align: center;
+    width: 100%; }
+    .contents .container-header {
+      max-width: 310px;
+      margin: auto;
+      font-size: 20px;
+      line-height: 30px;
+      margin-bottom: 56px; }
+      .contents .container-header h2 {
+        font-size: 52px;
+        line-height: 62px; }
+    .contents .container-footer {
+      padding: 0 21px;
+      color: #000;
+      display: flex;
+      flex-direction: column; }
+      .contents .container-footer-work, .contents .container-footer-design {
+        background-color: #fff;
+        margin-bottom: 32px; }
+        .contents .container-footer-work h4, .contents .container-footer-design h4 {
+          padding-top: 50px;
+          font-weight: 500;
+          font-size: 20px;
+          line-height: 30px; }
+        .contents .container-footer-work p, .contents .container-footer-design p {
+          font-size: 16px;
+          line-height: 24px;
+          padding: 30px 40px 67px 40px; }
+        .contents .container-footer-work button, .contents .container-footer-design button {
+          font-weight: 500;
+          font-size: 17px;
+          line-height: 25px;
+          background-color: #4452FE;
+          padding: 14px 48px;
+          color: #fff; }
+        .contents .container-footer-work img, .contents .container-footer-design img {
+          max-width: 280px;
+          width: 100%; }
+        .contents .container-footer-work .container-footer-work-button, .contents .container-footer-work .macbook, .contents .container-footer-design .container-footer-work-button, .contents .container-footer-design .macbook {
+          margin-bottom: 30px; }

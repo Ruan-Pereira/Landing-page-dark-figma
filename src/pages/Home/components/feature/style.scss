@@ -28,14 +28,17 @@
             justify-content: center;
             position: relative;
             height: 380px;
-
+            
             .img-first{
                 height: 325px;
                 width: 100%;
+                max-width: 320px;
             }
             .img-second{
                 position: absolute;
                 top: 180px;
+                max-width: 232px;
+                width: 100%;
             
             }
         }
