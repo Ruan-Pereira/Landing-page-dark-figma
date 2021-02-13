@@ -1,0 +1,31 @@
+.header {
+  background-color: #181818;
+  height: 107px; }
+  .header .container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 100%;
+    padding: 0 24px; }
+    .header .container .header-logo {
+      width: 186px;
+      height: auto; }
+    .header .container .header-menu {
+      display: flex; }
+      .header .container .header-menu-login {
+        height: 52px;
+        width: 110px;
+        border: 1px solid #FFFFFF;
+        display: flex;
+        justify-content: center;
+        color: #fff;
+        font-style: normal;
+        font-weight: 500;
+        font-size: 17px;
+        line-height: 52px; }
+      .header .container .header-menu-mobile {
+        width: 82px;
+        height: auto;
+        margin: auto;
+        display: flex;
+        justify-content: flex-end; }

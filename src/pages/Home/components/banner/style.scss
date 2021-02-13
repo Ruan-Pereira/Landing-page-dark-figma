@@ -1,0 +1,53 @@
+.banner{
+  background-color: #181818;
+
+  .container{
+        color:#fff;
+       
+        &-text{
+            max-width:402px;
+            margin: auto;
+            text-align: center;
+            h2{
+                font-size: 52px;
+                line-height: 62px;
+                max-width: 314px;
+                font-style: normal;
+                font-weight: normal;
+                margin:auto ;
+                margin-bottom: 24px;
+            }   
+            p{
+                font-size: 20px;
+                line-height: 30px;
+                
+            }
+        }
+
+        &-buttons{
+            display: flex;
+            flex-direction: column;
+            margin: 56px auto;
+            
+            button{
+                padding: 10px 30px;
+                width: 178px;
+                height: 65px;
+                color: #fff;
+            } 
+
+            &-first{
+                background: #4452FE;
+                box-shadow: 0px 4px 31px rgba(0, 0, 0, 0.15);
+                margin:0 auto 24px auto;
+            }
+            &-second{
+                margin: auto;
+                border: 1px solid #FFFFFF;
+                background-color: #181818;
+            }
+        }
+       
+
+  }
+}

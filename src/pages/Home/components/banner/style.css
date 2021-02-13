@@ -1,0 +1,36 @@
+.banner {
+  background-color: #181818; }
+  .banner .container {
+    color: #fff; }
+    .banner .container-text {
+      max-width: 402px;
+      margin: auto;
+      text-align: center; }
+      .banner .container-text h2 {
+        font-size: 52px;
+        line-height: 62px;
+        max-width: 314px;
+        font-style: normal;
+        font-weight: normal;
+        margin: auto;
+        margin-bottom: 24px; }
+      .banner .container-text p {
+        font-size: 20px;
+        line-height: 30px; }
+    .banner .container-buttons {
+      display: flex;
+      flex-direction: column;
+      margin: 56px auto; }
+      .banner .container-buttons button {
+        padding: 10px 30px;
+        width: 178px;
+        height: 65px;
+        color: #fff; }
+      .banner .container-buttons-first {
+        background: #4452FE;
+        box-shadow: 0px 4px 31px rgba(0, 0, 0, 0.15);
+        margin: 0 auto 24px auto; }
+      .banner .container-buttons-second {
+        margin: auto;
+        border: 1px solid #FFFFFF;
+        background-color: #181818; }
