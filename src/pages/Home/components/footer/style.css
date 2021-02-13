@@ -1,0 +1,28 @@
+.footer {
+  background-color: #181818;
+  color: #fff; }
+  .footer .container {
+    max-width: 430px;
+    margin: auto;
+    width: 100%;
+    padding-top: 100px;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 30px; }
+    .footer .container ul {
+      padding: 40px 0; }
+      .footer .container ul li {
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 24px;
+        padding-bottom: 19px; }
+    .footer .container .how-to-find .location, .footer .container .how-to-find .fone {
+      display: flex;
+      align-items: center;
+      height: 46px;
+      padding-bottom: 10px; }
+      .footer .container .how-to-find .location img, .footer .container .how-to-find .fone img {
+        padding-right: 8px; }
+    .footer .container .how-to-find .social-icons img {
+      margin-right: 24px;
+      padding-bottom: 130px; }

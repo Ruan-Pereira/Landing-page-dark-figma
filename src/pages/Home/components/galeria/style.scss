@@ -1,0 +1,40 @@
+.galeria{
+    background-color: #181818;
+    color: #fff;
+    padding-top: 170px;
+    .container{
+        max-width:430px;
+        margin: auto;
+        text-align: center;
+        width: 100%;
+
+        &-text{
+            max-width: 310px;
+            margin: auto;
+            font-size: 20px;
+            line-height: 30px;
+            margin-bottom: 56px;
+            h2{
+                font-size: 52px;
+                line-height: 62px;
+            }
+        }
+        img{
+            max-width: 329px;
+            height: 286;
+            width: 100%;
+            padding:16px 48px ;
+        }
+
+        button{
+            font-weight: 500;
+            font-size: 17px;
+            line-height: 25px;
+            background: #181818;
+            border: 1px solid #fff;
+            padding: 14px 40px;
+            margin-top: 40px;
+            color: #fff;
+        }
+    }
+}

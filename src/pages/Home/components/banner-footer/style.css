@@ -1,0 +1,23 @@
+.banner-foooter {
+  background-color: #181818;
+  color: #fff; }
+  .banner-foooter .container {
+    max-width: 430px;
+    margin: auto;
+    text-align: center;
+    width: 100%;
+    padding-top: 100px; }
+    .banner-foooter .container h2 {
+      font-size: 52px;
+      line-height: 62px;
+      padding-bottom: 37px; }
+    .banner-foooter .container button {
+      font-weight: 500;
+      font-size: 17px;
+      line-height: 25px;
+      background-color: #4452FE;
+      padding: 14px 48px;
+      color: #fff;
+      margin-bottom: 110px; }
+    .banner-foooter .container img {
+      width: 100%; }

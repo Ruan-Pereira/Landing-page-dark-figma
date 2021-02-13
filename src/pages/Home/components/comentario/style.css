@@ -1,0 +1,31 @@
+.testimonials {
+  background-color: #181818;
+  color: #fff;
+  padding-bottom: 70px; }
+  .testimonials .container {
+    max-width: 430px;
+    margin: auto;
+    text-align: center;
+    width: 100%;
+    padding-top: 170px; }
+    .testimonials .container h2 {
+      font-size: 52px;
+      line-height: 62px;
+      padding-bottom: 50px; }
+    .testimonials .container-coments {
+      max-width: 310px;
+      margin: auto;
+      font-size: 16px;
+      line-height: 24px;
+      margin-bottom: 56px;
+      border: 1px solid #565656;
+      padding: 40px; }
+      .testimonials .container-coments-header {
+        padding-bottom: 24px;
+        display: flex;
+        align-items: center;
+        font-weight: 500;
+        font-size: 20px;
+        line-height: 30px; }
+        .testimonials .container-coments-header img {
+          padding-right: 8px; }
