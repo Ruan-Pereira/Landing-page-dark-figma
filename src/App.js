@@ -15,8 +15,8 @@ function App() {
       <div>
         <Header/>
         <Banner/>
-        {/* <Feature/>
-        <Contents/>
+        <Feature/>
+        {/* <Contents/>
         <Galeria/>
         <Patners/>
         <Comentario/>

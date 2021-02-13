@@ -34,3 +34,5 @@
         margin: auto;
         border: 1px solid #FFFFFF;
         background-color: #181818; }
+    .banner .container .banner-img img {
+      width: 100%; }
